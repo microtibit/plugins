@@ -1,0 +1,7 @@
+'#1': 'You can find The IDs here: minecraft-ids.grahamedgecombe.com/'
+'#2': Add a 0 if you want to disable ItemDrops
+DropOne: 0
+DropTwo: 0
+DropThree: 0
+DropFour: 0
+DropFive: 0
